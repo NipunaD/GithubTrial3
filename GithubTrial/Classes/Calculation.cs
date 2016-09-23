@@ -12,5 +12,10 @@ namespace GithubTrial.Classes
         {
             return a + b;
         }
+
+        public float devide(float a, float b)
+        {
+            return a / b;
+        }
     }
 }
